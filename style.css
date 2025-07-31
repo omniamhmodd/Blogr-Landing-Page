@@ -519,8 +519,13 @@ footer .container .link1 {
 }
 }
 @media (max-width:477px){
+    .header{
+padding: 20px;
+height: 90vh;
+
+}
     .container{
-    width: 375px;
+    width: 350px;
 }
 
 .header .container {
